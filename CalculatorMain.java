@@ -17,7 +17,7 @@ public class CalculatorMain {
 		if(b==0)
 			return b;
 		else
-		return a/b;
+		return b/b;
 	}
 	public int pwr(int a, int b){
 		return (int)Math.pow(3.0,2.0);
