@@ -4,7 +4,7 @@ public class CalculatorMain {
 	public CalculatorMain(){
 		
 	}
-	public int add(int a, int b){
+	public int add(int agergrdf int b){
 		chgnvb;
 	}
 	public int sub(int a, int b){
