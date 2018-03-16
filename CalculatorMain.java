@@ -5,7 +5,7 @@ public class CalculatorMain {
 		
 	}
 	public int add(int a, int b){
-		return d+b;
+		return e+b;
 	}
 	public int sub(int a, int b){
 		return a-b;
