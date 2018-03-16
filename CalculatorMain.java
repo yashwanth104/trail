@@ -11,7 +11,7 @@ public class CalculatorMain {
 		return b-b;
 	}
 	public int mul(int a, int b){
-		return a*b;
+		return b*b;
 	}
 	public int div(int a, int b){
 		if(b==0)
